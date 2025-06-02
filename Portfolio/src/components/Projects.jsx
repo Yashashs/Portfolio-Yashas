@@ -452,7 +452,7 @@ const Projects = () => {
                             ))}
                         </ul>
                         <div className="flex justify-center lg:justify-start">
-                            <a href="#"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
+                            <a href="https://github.com/chirag412vijayvergiya/sobus"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
                         </div>
                     </div>
                 </div>
@@ -489,7 +489,7 @@ const Projects = () => {
                             <div className="lg:ml-16 relative w-[400px] h-72 mx-auto">
                                 <div
                                     className="absolute w-[400px] inset-0 z-[-1] bg-gradient-to-r from-pink-600 via-blue-400 to-teal-400 blur-[5rem] opacity-60 rounded-full"
-                                    
+
                                 ></div>
                                 <img
                                     className="max-w-[400px] lg:mr-auto relative mx-auto"
@@ -521,7 +521,7 @@ const Projects = () => {
                             ))}
                         </ul>
                         <div className="flex justify-center lg:justify-start">
-                            <a href="#"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
+                            <a href="https://github.com/Yashashs/Portfolio-Yashas"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
                         </div>
                     </div>
                 </div>
@@ -534,7 +534,7 @@ const Projects = () => {
                     {/* Horizontal line from timeline to image - Hidden on small screens */}
                     <div className="hidden lg:block h-[1px] bg-[#1788ae] absolute right-1/2 top-1/2 w-[calc(50%-200px)]"></div>
 
-                    <a href="https://sobus.vercel.app/home" className="flex w-full relative">
+                    <a href="#" className="flex w-full relative">
                         <div className="relative group hover:scale-105 ease-in-out duration-200 mx-auto lg:mx-0">
                             <span className="flex group-hover:-top-14 ease-jump duration-200 bg-[#fc815c] px-4 absolute left-1/2 -translate-x-1/2 top-3 py-2 rounded w-max items-center gap-1 after:content-[''] after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
                                 Calculator
@@ -588,7 +588,7 @@ const Projects = () => {
                             ))}
                         </ul>
                         <div className="flex justify-center lg:justify-start">
-                            <a href="#"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
+                            <a href="https://github.com/Yashashs/Calculator"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
                         </div>
                     </div>
                 </div>
@@ -655,7 +655,7 @@ const Projects = () => {
                             ))}
                         </ul>
                         <div className="flex justify-center lg:justify-start">
-                            <a href="#"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
+                            <a href="https://github.com/Yashashs/Currency-Calculator"><FaGithub className="mt-5 ml-2 h-[25px] w-[25px] hover:text-blue-500 hover:scale-125 rounded-xl transition-all hover:rounded-xl" /></a>
                         </div>
                     </div>
                 </div>
